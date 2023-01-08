@@ -18,7 +18,7 @@
    * 一些有用的按钮
      * 暂停建造(**仅手机**)
      * 自动升级传送带
-     * 重建方块
+     * 重建方
      * 快捷投降
 
        ![img_2.png](.github/images/UsefulButtons.png)
