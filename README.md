@@ -106,7 +106,7 @@
 
       ![img_13.png](.github/images/EnemyIndicator.png)
 
-    * 附近单位警戒
+    * 附近单位警
 
       ![img_14.png](.github/images/UnitAlert.png)
 
